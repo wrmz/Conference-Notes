@@ -37,7 +37,7 @@ Diagrams that visually align customer experience to the organization provisions.
 - Illustrate (Make it Visual)
 - Align & Envision (Make it Actionable)
 
-#### Initiate: Make it Relevant
+### Initiate: Make it Relevant
 
 Define the right problem - mapping helps give context from which to zoom in or out of where to focus efforts. This is useful to transition focus in meetings - however do __NOT__ go into a meeting with an empty board. Steer project owners to the correct problem.
 
@@ -59,7 +59,7 @@ Business care about __growth__. Align to these business goals:
 - Increased existing business
 - Increased shareholder value
 
-#### Investigate: Make it Real
+### Investigate: Make it Real
 
 1. Gather existing sources
   1. Qualitative
@@ -74,7 +74,7 @@ Business care about __growth__. Align to these business goals:
   3. Consider workarounds they may be incorporating
   4. Surveys (quantitative data)
 
-#### Illustrate: Make it Visual
+### Illustrate: Make it Visual
 
 ![Analyze Data](https://image.slidesharecdn.com/mappingexperiencesoreillydesignconfpresentation-170321034534/95/mapping-experiences-oreilly-design-conference-2017-60-638.jpg)
 
@@ -114,7 +114,7 @@ Use a consistent representation
 
 Focus possibly on _extreme_ use cases (Disabilities, 1st time visitors, children, etc.)
 
-#### Align & Envision: Make it Actionable
+### Align & Envision: Make it Actionable
 
 Host a workshop with the following structure:
 
@@ -122,9 +122,7 @@ Empathize :right_arrow: Envision :right_arrow: Evaluate :right_arrow: Plan Exper
 
 It's important to force conversation, make revisions in an open setting. When you make engagement happen, answers emerge. This should have at __least__ 4 hours devoted to it, but a full 1-2 days is optimal. This will not produce immediately actionable tasks for production. Use this to distill and flesh out models.
 
-##### Empathize
-
-Pinpoint Opportunities:
+__Empathize:__ Pinpoint Opportunities:
 
 - Gaps
 - Weaknesses
@@ -133,17 +131,11 @@ Pinpoint Opportunities:
 
 Author Involvement Levels in the process.
 
-##### Envision
+__Envision:__ Articulate the ideas, storyboard them out, make sticky notes and move them around, create wireframes & prototypes.
 
-Articulate the ideas, storyboard them out, make sticky notes and move them around, create wireframes & prototypes.
+__Evaluate:__ Evaluate the ideas. Attempt to trash them, disprove them, and eliminate them.
 
-##### Evaluate
-
-Evaluate the ideas. Attempt to trash them, disprove them, and eliminate them.
-
-##### Experiment
-
-Ideas are overrated. We're already drowning in them. Consider giving people time to take ideas to a high fidelity product to discover the viability. Can it be designed? Can it be sold? Can it be marketed?
+__Experiment:__ Ideas are overrated. We're already drowning in them. Consider giving people time to take ideas to a high fidelity product to discover the viability. Can it be designed? Can it be sold? Can it be marketed?
 
 To create business value experiments, use a framework. Reference [The Innovator's Hypothesis; How Cheap Experiments are Worth More Than Good Ideas](https://www.amazon.com/Innovators-Hypothesis-Cheap-Experiments-Worth/dp/0262028360).
 
