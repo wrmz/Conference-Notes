@@ -7,6 +7,9 @@ __Speaker__: James Kalbach, Header of Customer Success at [MURAL](http://mural.l
 - Start with customer experience and work backward toward the technology - not the other way around.
 - Create abstraction to align with the broader customer and make data digestible.
 - Find value where the individual experience and organization provision align.
+- Research both internally & externally.
+- Have conversations about the experience.
+- Don't just ideate, experiment.
 
 ---
 
@@ -145,3 +148,15 @@ Give a diverse team of [x] number of people:
 - to create [x] business experiements
 - costing no more than $[x] and
 - taking no longer than [x] weeks to run
+
+## How We Apply It
+
+This goes beyond simply making more wireframes - something we've been wanting and trying to do already. Sheetz __needs__ to have this workflow incorporated into the development of our digital marketing solutions. We might be providing all the cool things in the world, but if it's not convenient, adds to their frustration, or if the customers (or those interfacing with the customers) have to use work-arounds to employ our solutions, we're not getting the benefit we think we're getting. Imagine the numbers if we made things __better__.
+
+We don't currently have anything like "phases" in our process, but it's super important to have structure and we're lacking it. We're spiraling with ideas, bringing them to production without much planning, continuously attempting to reshape it during creation, missing deadlines and underwhelming the customer with well-meaning, but hindering products.
+
+If we set aside time, dedicate an entire sprint (or hell, even two!) to concentrating on the user's experience __first__, we can not only make a case for what pain points to focus on, but also pivot to more important improvements that will not only give more value to the customer, but increase customers and sales. Following this workflow: Initiate, Investigate, Illustrate, Align & Envision, gives us the discussions we ought to be having to produce the answers we ought to be giving. Each step in the process provides tangible evidence of the work we put in and helps fuel the end goal.
+
+Rather than bringing customers in later in the process with prototypes of what we've already spent time on, after most of the planning work has been done, we ought to be talking to people both internally _and_ externally before we even begin.
+
+I propose we attempt this on a few upcoming projects, or come up with a project based on information gathered from this even in the future. In this way, when we are finally getting down to developing, we have all the whats and whys to keep us motivated on finishing not just a well-meaning product, but a well-informed and useful product that people don't __have__ to use, but __want__ to use.
