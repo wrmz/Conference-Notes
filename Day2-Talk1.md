@@ -62,3 +62,8 @@ Who else wants to participate, but is excluded on a temporary or situational bas
 
 ## How We Apply It
 
+As a convenience restaurant, we have a lot to gain from inclusive design. Our customers are about as diverse as they come. How would a person who is deaf know when their order number is called?
+
+Our solution for that excluded group would benefit parents who are busy making sure their kids aren't wandering the aisles. It would provide aid for the older folks who just don't hear as well. And it would benefit people who just aren't paying attention, lost in their thoughts. How often have you had to check a number on a bag on the counter, or how often have the employees needed to repeat order numbers?
+
+Design for many, by designing for one - the excluded. By opening up accessibility, we're enabling customers with temporary or situational exclusions to be included. Let's bump up our common-place convenience to kick-ass convenience.
