@@ -35,7 +35,7 @@ Diagrams that visually align customer experience to the organization provisions.
 - Initiate (Make it Relevant)
 - Investigate (Make it Real)
 - Illustrate (Make it Visual)
-- Align & Envision
+- Align & Envision (Make it Actionable)
 
 #### Initiate: Make it Relevant
 
@@ -90,3 +90,66 @@ Analyze the data and find the patterns. Use an aggravate view (not individuals a
 | __Be concise__ | Feel anxious during purchase about cost, and then reconsider | Struggle due to lack of technical skills during installation |
 | __Use abbreviations sparingly__ | \-- | Struggle due to lack of _tech_ skills during installation |
 | __Rely on context of map__ | anxious about cost / reconsider (depending on  your structure) | Struggle due to lack of tech skills / Lack tech skills (depending on  your structure) |
+
+Consider different layouts for your diagram:
+
+![Chronology](https://image.slidesharecdn.com/mappingexperiencesoreillydesignconfpresentation-170321034534/95/mapping-experiences-oreilly-design-conference-2017-68-638.jpg)
+
+![Layout Types](https://image.slidesharecdn.com/mappingexperiencesoreillydesignconfpresentation-170321034534/95/mapping-experiences-oreilly-design-conference-2017-74-638.jpg)
+
+Use a consistent representation
+
+- Visual
+  - Fit to space
+  - Consider font selection
+  - Color coding
+  - Icons and shapes
+- Text
+  - Actions: Start each with a _verb_
+  - Thoughts: Phrase as a _question_
+  - Feelings: Use _adjectives_
+  - Pain points: Start each with a _gerund_
+  - Touchpoints: Use _nouns_
+  - Opportunities: Begin with a verb of _change_ (_increase_ the ease of installation)
+
+Focus possibly on _extreme_ use cases (Disabilities, 1st time visitors, children, etc.)
+
+#### Align & Envision: Make it Actionable
+
+Host a workshop with the following structure:
+
+Empathize :right_arrow: Envision :right_arrow: Evaluate :right_arrow: Plan Experiments
+
+It's important to force conversation, make revisions in an open setting. When you make engagement happen, answers emerge. This should have at __least__ 4 hours devoted to it, but a full 1-2 days is optimal. This will not produce immediately actionable tasks for production. Use this to distill and flesh out models.
+
+##### Empathize
+
+Pinpoint Opportunities:
+
+- Gaps
+- Weaknesses
+- Efficiencies
+- Competitors
+
+Author Involvement Levels in the process.
+
+##### Envision
+
+Articulate the ideas, storyboard them out, make sticky notes and move them around, create wireframes & prototypes.
+
+##### Evaluate
+
+Evaluate the ideas. Attempt to trash them, disprove them, and eliminate them.
+
+##### Experiment
+
+Ideas are overrated. We're already drowning in them. Consider giving people time to take ideas to a high fidelity product to discover the viability. Can it be designed? Can it be sold? Can it be marketed?
+
+To create business value experiments, use a framework. Reference [The Innovator's Hypothesis; How Cheap Experiments are Worth More Than Good Ideas](https://www.amazon.com/Innovators-Hypothesis-Cheap-Experiments-Worth/dp/0262028360).
+
+Give a diverse team of [x] number of people:
+
+- \[x] number of days
+- to create [x] business experiements
+- costing no more than $[x] and
+- taking no longer than [x] weeks to run
