@@ -43,11 +43,11 @@ Define the right problem - mapping helps give context from which to zoom in or o
 
 ![Diagram Structures](https://image.slidesharecdn.com/mappingexperiencesoreillydesignconfpresentation-170321034534/95/mapping-experiences-oreilly-design-conference-2017-44-638.jpg)
 
-[] Point of View (Whose/which experiences?)
-[] Focus (Focus on which elements?)
-[] Scope (What is the scope of the experiences?)
-[] Structure (How should the diagram be structured?)
-[] Usage (What should the diagram be used for?)
+- [ ] Point of View (Whose/which experiences?)
+- [ ] Focus (Focus on which elements?)
+- [ ] Scope (What is the scope of the experiences?)
+- [ ] Structure (How should the diagram be structured?)
+- [ ] Usage (What should the diagram be used for?)
 
 ![POV, Scope, Focus, Structure, Usage](https://image.slidesharecdn.com/mappingexperiencesoreillydesignconfpresentation-170321034534/95/mapping-experiences-oreilly-design-conference-2017-45-638.jpg)
 
@@ -65,8 +65,28 @@ Business care about __growth__. Align to these business goals:
   1. Qualitative
   2. Quantitative
 2. Interview internally
-  1. Sketch the experience (together!)
-  2. Identify knowledge gaps
+  1. Reach people as high as you can go
+  2. Sketch the experience (together!)
+  3. Identify knowledge gaps
 3. Interview externally
   1. Contextual interviews
-  2. Surveys (quantitative data)
+  2. Reach people who interact with customers as well
+  3. Consider workarounds they may be incorporating
+  4. Surveys (quantitative data)
+
+#### Illustrate: Make it Visual
+
+![Analyze Data](https://image.slidesharecdn.com/mappingexperiencesoreillydesignconfpresentation-170321034534/95/mapping-experiences-oreilly-design-conference-2017-60-638.jpg)
+
+Analyze the data and find the patterns. Use an aggravate view (not individuals at a single level). Sometimes the pattern is that there is no pattern. Research will conflict - expect that. When this happens, go up a level of abstraction.
+
+| Guideline | Example 1 | Example 2 |
+| - | - | - |
+| __Start with insights__ | Research cluster 1: People indicated they sometimes hesitate and reconsider during the customer acquisition phase because of our premium pricing model | Research cluster 2: There is a clear pain point around deploying the solution, primarily due to lack of necessary technical knowledge |
+| __Use natural language__ | People reconsider when making a purchase because they may be nervous or anxious about the high cost | Users struggle to install the software for the first time if they don't have the required technical skills |
+| __Keep voice consistent__ | I reconsider when making a purchase because I'm anxious and nervous about the high cost | I struggle to install the software for the first time because I don't have the necessary technical skills |
+| __Omit pronouns and articles__ | Reconsider when making purchase due to anxiousness and nervousness over high cost | Struggle to install software for first time without the necessary technical skills |
+| __Focus on the root cause__ | Feel anxious and nervous when making purchase due to high cost, and then reconsider | Struggle during installation due to lack of necessary technical skills |
+| __Be concise__ | Feel anxious during purchase about cost, and then reconsider | Struggle due to lack of technical skills during installation |
+| __Use abbreviations sparingly__ | \-- | Struggle due to lack of _tech_ skills during installation |
+| __Rely on context of map__ | anxious about cost / reconsider (depending on  your structure) | Struggle due to lack of tech skills / Lack tech skills (depending on  your structure) |
