@@ -20,11 +20,11 @@ Diagrams that visually align customer experience to the organization provisions.
 - Customer Journey Maps
   - Focus: 3rd person experience as a Sheetz customer
   - How does this customer fit into our world?
-  - Individual -> Interactions -> Organization
+  - Individual :arrow_right: Interactions :arrow_right: Organization
 - Experience Maps
   - Focus: 1st person experience as a customer
   - How does Sheetz fit into the customer's world
-  - Interactions -> Individual -> Organization
+  - Interactions :arrow_right: Individual :arrow_right: Organization
 - Service Blueprints
   - Focus: How to provide an experience to a customer
 - Mental Model Diagrams
