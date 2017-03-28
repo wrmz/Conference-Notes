@@ -141,7 +141,7 @@ To create business value experiments, use a framework. Reference [The Innovator'
 
 Give a diverse team of [x] number of people:
 
-- \[x] number of days
+-\ [\x] number of days
 - to create [x] business experiements
 - costing no more than $[x] and
 - taking no longer than [x] weeks to run
