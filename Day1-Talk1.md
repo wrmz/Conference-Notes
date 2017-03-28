@@ -4,10 +4,28 @@ __Speaker__: James Kalbach, Header of Customer Success at [MURAL](http://mural.l
 
 ## Takeaways
 
-Start with customer experience and work backward toward the technology - not the other way around.
-Create abstraction to align with the broader customer and make data digestible.
+- Start with customer experience and work backward toward the technology - not the other way around.
+- Create abstraction to align with the broader customer and make data digestible.
 
 ## Value
 
 Find value where the individual experience and organization provision align.
 
+---
+
+### Alignment Diagrams
+
+Diagrams that visually align customer experience to the organization provisions.
+
+- Customer Journey Maps
+  - Focus: 3rd person experience as a Sheetz customer
+  - How does this customer fit into our world?
+  - Individual -> Interactions -> Organization
+- Experience Maps
+  - Focus: 1st person experience as a customer
+  - How does Sheetz fit into the customer's world
+  - Interactions -> Individual -> Organization
+- Service Blueprints
+  - Focus: How to provide an experience to a customer
+- Mental Model Diagrams
+- Ecosystem models
