@@ -1,6 +1,6 @@
 # Guaranteed Successful Design
 
-__Speaker__: [Noah Iliinsky](http://complexdiagrams.com/), Senior UX Architect at Amazon Web Services
+__Speaker__: [Noah Iliinsky](http://complexdiagrams.com/), Senior UX Architect at Amazon Web Services, co-author of _"Designing Data Visualizations"_ and technical editor/contributor to _"Beautiful Visualization"_
 
 Video: [John Scully on Steve Jobs](https://youtu.be/S_JYy_0XUe8) (46 sec.)
 
