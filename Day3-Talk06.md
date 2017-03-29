@@ -87,7 +87,7 @@ Have an inclusive vision and design for diversity.
 
 Data is awesome, but that's a baby step. You need to refine it to get to answers, and refine it more to get to solutions. The higher from the bottom you go, the more value you retrieve.
 
-- :raised_hands:__VALUE__:raised_hands:
+- :raised_hands: __VALUE__
 - :arrow_up: Solutions
 - :arrow_up: Actions
 - :arrow_up: Answers
@@ -103,7 +103,63 @@ Data is organized differently in our databases than it is presented to users. Co
 > I remain amazed and perplexed at how often people think they can solve an information architecture problem with interaction design
 > \- Jesse James Garrett
 
-There is no "I'm [this kind of] learner." We're all visual. We're all auditory. It's a myth that certain people can only learn visually or auditorily.
+There is no _"I'm [this kind of] learner."_ We're all visual. We're all auditory. It's a myth that certain people can only learn visually or auditorily.
+
+### Draw the Map or Diagram
+
+Use the Diagram to __guide__ a focused approach. Otherwise you may wind up with something like:
+
+> Designer made awful UI [X], because manager tasked odd requirement [Y], because customer (or stakeholder) wanted [Z] not really understanding what they were asking nor the implications.
+
+![xkcd](https://xkcd.com/657/large/)
+
+### What Could Possibly Go Wrong?
+
+![xkcd](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)
+
+How will your product react in different situations?
+
+Example: [Gmail's mic drop April fool's fail](https://www.theguardian.com/technology/2016/apr/01/google-disables-april-fools-joke-gmail-mic-drop)
+
+### Design Systems for Human Inaction
+
+People are lazy. Get the behavior you want even if your users don't do the right thing, if they do it at all. If the success of your system depends on humans doing the right thing, your system __will__ fail, if not now, eventually.
+
+Direct deposit is an example of a system doing the right thing without human action.
+
+### Design the Right Thing
+
+Find the right problem to solve.
+
+Track your annoyances:
+
+1. Keep a bug list
+2. Keep a resignation list
+  - What am I resigned to that I could find a solution for?
+
+### Root Cause Analysis
+
+Investigate with [Five Whys](https://en.wikipedia.org/wiki/5_Whys)
+
+Example:
+
+- __Problem__: There is a cup under the coffee grounds basket at the coffee machine.
+- __Why?__: To catch the drips from the coffee grounds basket
+- __Why?__: There are still grounds in the basket after a brew.
+- __Why?__: Nobody emptied the grounds from the basket
+- __Why?__: Because it's a hassle to empty without a mess
+- __Why?__: I don't know how empty it without making a mess
+
+When you hear a passive voice, ask _who_ is doing it.
+
+- "These things just keep happening!"
+- ["Mistakes were made"](https://en.wikipedia.org/wiki/Mistakes_were_made)
+
+When there is a lack of ownership, there is probably a party who is responsible or at least involved.
+
+### Analyze the Market Visually
+
+![Visually analyze the market](https://s3.amazonaws.com/resources.sketch.cloud/private/2c4a3876-8002-4593-a8f0-fe096affde4f.l.png?AWSAccessKeyId=AKIAIS7X2P6WUKGTP2GA&Expires=1491068345&Signature=ZljSbSWSpuScd54e4T%2FESL8k0tM%3D)
 
 ## How We Apply It
 
