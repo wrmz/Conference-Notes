@@ -39,6 +39,13 @@ Services are a huge part of the US economy.
         - Would you recommend us (after service is rendered)?
     * Loyalty vs. Satisfaction
         - Look at return customers vs advocation for service
+        - I literally as I was re-typing my notes received this very question from Sprint, my mobile service provider in a text message format:
+            - "Hi, this is Sprint. We'll text you 4 questions about your experience (all texts free). We value your feedback and may follow up with a call."
+            - "How likely are you to recommend Sprint to friends or family on a scale of '0' (not at all likely) to '10' (extremely likely)?"
+            - [After response] "We appreciate your response. Please briefly explain why you gave this score."
+            - [After response] "Please rate your satisfaction with Sprint's network quality, on a scale of '0' (Not at all satisfied) to '10' (extremely satisfied)."
+            - [After response] "How satisfied are you with how your first bill met your expectations, on a scale of '0' (Not at all satisfied) to '10' (Extremely satisfied)?"
+            - [After response] "Thank you for your time & valuable feedback. We may contact you to help us serve you better in the future. Have a wonderful day!"
     * People don't remember much (Peak End Rule)
         - They remember the peak (best moment)
         - They remember the trough (worst moment)
