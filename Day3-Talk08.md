@@ -69,3 +69,7 @@ Create a successful toolkit by following these guidelines:
   - How to inspire?
 
 ## How We Apply It
+
+When teaming up with Brand to provide a more holistic experience for our customers, we need to communicate better about who we are trying to be and what we want our customers to feel. We should work together to create a styleguide specifically for digital media that necessarily is different from what they've tried to create for their own print media. Their patterns, typography and design elements do not translate into a digital medium and we need to match this experience one-for-one in different ways.
+
+We should also take the time to create better tools. What the designers had more of a say in colors that they could just play with? We could easily (within minutes) set them up with a single file in which they change, say, subheader colors, secondary background colors, or alert colors. Upon save, the browser would update, they would see their change and they could provide us that file (which after our own review, we could either commit, rollback or discuss further).
