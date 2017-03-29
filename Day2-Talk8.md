@@ -2,3 +2,6 @@
 
 __Speaker__: Sarah Gold, Director at Projects by IF
 
+## Takeaways
+
+---

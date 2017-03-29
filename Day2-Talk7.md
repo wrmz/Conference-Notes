@@ -5,3 +5,6 @@ __Speakers__:
 - Amy Vainieri, Senior Designer at Taoti Creative
 - Courtney Clark, Managing Director of User Experience at Forum One
 
+## Takeaways
+
+---
