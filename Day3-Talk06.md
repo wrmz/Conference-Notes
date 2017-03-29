@@ -161,5 +161,35 @@ When there is a lack of ownership, there is probably a party who is responsible 
 
 ![Visually analyze the market](https://s3.amazonaws.com/resources.sketch.cloud/private/2c4a3876-8002-4593-a8f0-fe096affde4f.l.png?AWSAccessKeyId=AKIAIS7X2P6WUKGTP2GA&Expires=1491068345&Signature=ZljSbSWSpuScd54e4T%2FESL8k0tM%3D)
 
+### Predict the (Inevitable) Future
+
+You may not know the velocity at which things will change, but you can certainly predict that they _will_ change.
+
+Ask yourself when this technology will change? Is there a place for a QR Code reader anymore, for example?
+
+Things go from:
+
+- Genesis
+  - Custom Built
+    - Product & Rental
+      - Commodity & Utility
+
+Wifi, for example, has become a commodity or utility.
+
+### Pursue Much Bigger Boxes
+
+Your box is small. Work on stuff that matters.
+
+1. Work on something that matters to you more than money
+  - But is still financially sustainable
+  - Do something that makes __you__ happy, not necessarily just because it's charitable
+2. Create more value than you capture
+  - Enable others to do the same
+3. Take the long view
+  - What are the longer implications of what I'm doing?
+
+> Do you want to sell sugar water for the rest of your life, or do you want to come with me and change the world?
+> \- Steve Jobs
+
 ## How We Apply It
 
