@@ -193,3 +193,8 @@ Your box is small. Work on stuff that matters.
 
 ## How We Apply It
 
+We can definitely learn from this talk. We've been talking technology first, and trying to fit it into our box by asking "How can we make this technology fit our customer's needs?" without first asking "What are our customer's needs?"
+
+I vote we apply what we've learned from the other talks and get some research, interviews and diagrams under way to discover the biggest pain points in a customer's experience and discover how we can really bring value to both the company and the customer. We've often talked about what technologies we want to use for a project before we even really understand what the product is supposed to accomplish or fleshing it out.
+
+Understanding a user's experience and determining what exactly we need to do isn't just a one-man job or a stakeholder's command. It takes a team to take the idea, analyze the information, gather more information and discuss where the problems lie; at which touchpoints they occur (if any at all), so that we're all solving not just the same problem, but the _right_ problem.
