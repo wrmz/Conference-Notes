@@ -121,7 +121,7 @@ Focus possibly on _extreme_ use cases (Disabilities, 1st time visitors, children
 
 Host a workshop with the following structure:
 
-Empathize :right_arrow: Envision :right_arrow: Evaluate :right_arrow: Plan Experiments
+Empathize :arrow_right: Envision :arrow_right: Evaluate :arrow_right: Plan Experiments
 
 It's important to force conversation, make revisions in an open setting. When you make engagement happen, answers emerge. This should have at __least__ 4 hours devoted to it, but a full 1-2 days is optimal. This will not produce immediately actionable tasks for production. Use this to distill and flesh out models.
 
