@@ -115,3 +115,5 @@ Alexa skills are basically just miniature conversations that developers & design
 - Voice User Interface Design
 
 ## How We Apply It
+
+As we plan for the future of how we want to allow interaction between Sheetz and customers, this will become more important. Keeping our personality and attitude while making the conversation worthwhile, convenient, useful and purposeful. Amazon did not originally count on Alexa becoming as successful as it has and were pleasantly surprised the numbers were much higher than expected. Does this mean there is a valid future in applying voice design to how we can design for diversity? It looks like there is potential there.
