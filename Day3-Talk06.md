@@ -76,5 +76,34 @@ The bigger and weirder the box, the better it is. Diversify the thinking with ot
 
 ![Bigger, better boxes](https://s3.amazonaws.com/resources.sketch.cloud/private/277bb059-65a6-4507-89fa-1ff077eb2c86.png?AWSAccessKeyId=AKIAIS7X2P6WUKGTP2GA&Expires=1491065463&Signature=IxnTNBa0ERwhCSjn%2FapFtmYu49Q%3D)
 
+### No Two Families Alike
+
+> Who is missing from the future you're designing?
+> \- Genevieve Bell
+
+Have an inclusive vision and design for diversity.
+
+### Work "Up Here" Instead of "Down Here"
+
+Data is awesome, but that's a baby step. You need to refine it to get to answers, and refine it more to get to solutions. The higher from the bottom you go, the more value you retrieve.
+
+- :raised_hands:__VALUE__:raised_hands:
+- :arrow_up: Solutions
+- :arrow_up: Actions
+- :arrow_up: Answers
+- :arrow_up: Information
+- :arrow_up: Data
+
+### Architect for Use
+
+Data is organized differently in our databases than it is presented to users. Consider how the users would use the information we're presenting and plan your UI somewhere along that axis.
+
+### Typical Web Design
+
+> I remain amazed and perplexed at how often people think they can solve an information architecture problem with interaction design
+> \- Jesse James Garrett
+
+There is no "I'm [this kind of] learner." We're all visual. We're all auditory. It's a myth that certain people can only learn visually or auditorily.
+
 ## How We Apply It
 
