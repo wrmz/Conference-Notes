@@ -67,3 +67,5 @@ Create a successful toolkit by following these guidelines:
 - __Demonstrate the art of the possible__
   - What are the intangibles that need to be shown rather than told?
   - How to inspire?
+
+## How We Apply It

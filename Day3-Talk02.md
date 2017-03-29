@@ -5,3 +5,5 @@ __Speaker__: Dan Mall, Founder and Executive Director at SuperFriendly
 ## Takeaways
 
 ---
+
+## How We Apply It

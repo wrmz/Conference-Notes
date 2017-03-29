@@ -5,3 +5,5 @@ __Speaker__: Julie Zhuo, Product Designer at Facebook
 ## Takeaways
 
 ---
+
+## How We Apply It

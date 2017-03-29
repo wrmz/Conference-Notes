@@ -5,3 +5,5 @@ __Speaker__: Patrick Hebron, Scientist in Residence at the Interactive Telecommu
 ## Takeaways
 
 ---
+
+## How We Apply It

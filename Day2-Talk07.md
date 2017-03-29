@@ -8,3 +8,5 @@ __Speakers__:
 ## Takeaways
 
 ---
+
+## How We Apply It

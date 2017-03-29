@@ -5,3 +5,5 @@ __Speaker__: Jennifer Pahlka, Founder and Executive Director at Code for America
 ## Takeaways
 
 ---
+
+## How We Apply It

@@ -5,3 +5,5 @@ __Speaker__: Phillip Hunter, Head of User Experience at Amazon Alexa Skills Kit
 ## Takeaways
 
 ---
+
+## How We Apply It

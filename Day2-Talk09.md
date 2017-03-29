@@ -5,3 +5,5 @@ __Speaker__: Peter Morville, President at Semantic Studios
 ## Takeaways
 
 ---
+
+## How We Apply It
