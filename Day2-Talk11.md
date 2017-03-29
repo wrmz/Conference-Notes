@@ -10,6 +10,9 @@ __Resources__:
 
 ## Takeaways
 
+- Voice interface design is a thing, and an important one at that
+- Amazon Alexa provides some interesting tools we should look into
+
 ---
 
 ### Amazon Alexa
