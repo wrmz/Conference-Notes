@@ -4,6 +4,10 @@ __Speaker__: Brandon Schauer, Head of [Adaptive Path](http://adaptivepath.org/) 
 
 ## Takeaways
 
+- Map out our customer's journeys
+- Think from a service perspective rather than a product perspective
+- Make the experience memorably good based on the mapped data - a tangible way to measure success
+
 ---
 
 ### What is Service Design
@@ -65,3 +69,5 @@ Turn the low moments in the customer experience into either a smoother movement 
 Sometimes, completely removing the step that causes a trough altogether helps to improve the customer journey.
 
 ## How We Apply It
+
+The running theme of these talks in general has really underscored the importance of mapping the user's experience. This is something we should be incorporating into our sprints at the very beginning. This perspective gives another method in which we can measurably improve a customer's journey. Specifically, this would help us to increase new customers and increase business from current customers with a rise in their loyalty. This has direct influence on what Sheetz really wants. Time needs set aside for this, conversations need to happen, and it should not be done haphazardly.
