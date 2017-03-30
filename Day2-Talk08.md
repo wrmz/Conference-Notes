@@ -6,6 +6,10 @@ __Resources__: [IF Data Permissions Catalogue](https://catalogue.projectsbyif.co
 
 ## Takeaways
 
+- Trust is important to our customers and we ought to look for ways to bolster this to improve loyalty and simply be a better company
+- Planning ahead for the eventuality of the US adoption legislation for similar protection of user's data, we ought to take a look at some new solutions
+- Being more trustable and convient, and just feeling overall more secure and private to our users would set us apart from competition
+
 ---
 
 ### The Problem
@@ -59,6 +63,6 @@ A few examples from the IF catalogue linked above that provide examples of solut
 - [Geofencing](https://catalogue.projectsbyif.com/images/geofencing.svg)
     - Access is controlled depending on the physical location of the person, using something like GPS
 
-
-
 ## How We Apply It
+
+I think there are some fair and usable patterns in IF's catalogue that would make our site and app feel more friendly overall. If in the future we discover an area where user's are feeling wary about sharing data with us, these provide ways to make the customer feel in control, and thereby more likely to share their information. Some information is always better than none, and we want more signups in the long run.
