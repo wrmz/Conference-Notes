@@ -20,6 +20,10 @@ __Resources__:
 
 ## Takeaways
 
+- Planning is super important, but be wary as it can be overdone, especially applied to the wrong problem or with the wrong options or with the wrong beliefs
+- To be a better design strategist, you need to be social, with tangible ideas with which you are agile and reflective about
+- To create a strategic plan, it's important to frame the problem, imagine the possibilities, narrow the options, decide on a set of actions and excute them
+
 ---
 
 ### Purpose
@@ -148,3 +152,5 @@ We'll use the acronym __FINDER__.
 
 
 ## How We Apply It
+
+This talk was mostly around being a better planner, and why that's important to your projects and organization's goals. I can definitely see opportunities around collecting better options from the start and researching in a smarter manner. We also need to get better at not being so married to our ideas, thereby tunneling our solutions, so that when something happens we didn't account for, we aren't throwing away a lot of work, time and money. This plays well into the overarching theme of the conference which is to pay attention to your users and the problems you need or want to solve.
