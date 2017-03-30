@@ -1,6 +1,6 @@
 # The Secret to Strategic Design: Mastering Planning
 
-__Speaker__: Peter Morville, President at Semantic Studios, author of _"Information Architecture for the World Wide Web"_, _"Abient Findability"_, _"Search Patterns"_ and _"Intertwingled"_, advises AT&T, Cisco, Harvard, IBM, Macy's, Library of Congress and the National Cancer Institute
+__Speaker__: Peter Morville, President at [Semantic Studios](http://semanticstudios.com/), author of _"Information Architecture for the World Wide Web"_, _"Abient Findability"_, _"Search Patterns"_ and _"Intertwingled"_, advises AT&T, Cisco, Harvard, IBM, Macy's, Library of Congress and the National Cancer Institute
 
 __Resources__:
 
