@@ -65,10 +65,10 @@ Strategic Designers:
 
 We'll use the acronym __STAR__.
 
-__S__ocial <br/>
-__T__angible <br/>
-__A__gile <br/>
-__R__eflective
+<strong>S</strong>ocial <br/>
+<strong>T</strong>angible <br/>
+<strong>A</strong>gile <br/>
+<strong>R</strong>eflective
 
 - __Social__
     - What (plan with people, early & often)
@@ -93,12 +93,12 @@ __R__eflective
 
 We'll use the acronym __FINDER__.
 
-__F__rame <br/>
-__I__magine <br/>
-__N__arrow <br/>
-__D__ecide <br/>
-__E__xecute <br/>
-__R__eflect
+<strong>F</strong>rame <br/>
+<strong>I</strong>magine <br/>
+<strong>N</strong>arrow <br/>
+<strong>D</strong>ecide <br/>
+<strong>E</strong>xecute <br/>
+<strong>R</strong>eflect
 
 - __Frame__
     - What (seeing problems, defining goals, designing process)
