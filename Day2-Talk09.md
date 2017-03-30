@@ -65,9 +65,9 @@ Strategic Designers:
 
 We'll use the acronym __STAR__.
 
-__S__ocial<br/>
-__T__angible<br/>
-__A__gile<br/>
+__S__ocial <br/>
+__T__angible <br/>
+__A__gile <br/>
 __R__eflective
 
 - __Social__
@@ -93,11 +93,11 @@ __R__eflective
 
 We'll use the acronym __FINDER__.
 
-__F__rame<br/>
-__I__magine<br/>
-__N__arrow<br/>
-__D__ecide<br/>
-__E__xecute<br/>
+__F__rame <br/>
+__I__magine <br/>
+__N__arrow <br/>
+__D__ecide <br/>
+__E__xecute <br/>
 __R__eflect
 
 - __Frame__
