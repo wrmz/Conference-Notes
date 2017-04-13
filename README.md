@@ -5,7 +5,19 @@ This repository holds the notes from the most relevant talks from the conference
 
 ## Table of Contents
 
-[Mapping Experiences: From Insight to Action](Day1-Talk01.md)
+1. [Mapping Experiences: From Insight to Action](Day1-Talk01.md)
+2. [Explore, Persuade, Destroy: Storyboarding for Product Development](Day1-Talk02.md)
+3. [Design for Seven Billion; Design for One](Day2-Talk01.md)
+4. [Design Systems: Accounting for Quantity and Scalability](Day2-Talk07.md)
+5. [Design Patterns for Data Sharing](Day2-Talk08.md)
+6. [The Secret to Strategic Design: Mastering Planning](Day2-Talk09.md)
+7. [Rethinking Design Tools in the Age of Machine Learning](Day2-Talk10.md)
+8. [Amazon Alexa, What, Why, and Why Now?](Day2-Talk11.md)
+9. [User Research War Stories](Day3-Talk04.md)
+10. [Wielding the Soft (and Hard) Science of Service Design](Day3-Talk05.md)
+11. [Guaranteed Successful Design](Day3-Talk06.md)
+12. [Designing Trustable Products: Microinteractions Matter](Day3-Talk07.md)
+13. [UX, Brand, and Crossing Disciplines](Day3-Talk08.md)
 
 ## Lessons Learned
 
